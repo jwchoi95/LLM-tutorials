@@ -5,10 +5,10 @@
 
 
 
-![](./image/figure1.png)
+![](./image/figure1.jpg)
 
 
-![](./image/figure2.png)
+![](./image/figure2.jpg)
 
 
 
