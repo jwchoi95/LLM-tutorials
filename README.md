@@ -1,2 +1,4 @@
 # LLM-tutorials
-Tutorials on the understanding of LLMs for materials scientist
+
+> 2023 대한금속재료학회 전산재료과학분과 단기강좌 교 "ChatGPT와 함께하는 미래 소재 개발의 시작!"에서 사용된 수업 자료 입니다.
+> 국민대학교 공학관 228호(2층)에서 2023.08.16~17 2일에 걸쳐 진행되었습니다.
