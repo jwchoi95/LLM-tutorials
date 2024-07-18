@@ -14,6 +14,10 @@
 
 ## Materials
 
-1일차: GPT 모델의 이해와 활용
+### 1일차: GPT 모델의 이해와 활용
 
-2일차: GPT를 이용한 소재문헌 자연어처리
+> 자연어처리 소개, 언어모델 방식, Transformer의 등장, BERT와 GPT의 비교에 대한 내용으로 구성되었습니다.
+
+### 2일차: GPT를 이용한 소재문헌 자연어처리
+
+> 소재문헌 자연어처리, Text classification 및 실습, Information extraction에 대한 내용으로 구성되었습니다.
